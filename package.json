@@ -21,7 +21,7 @@
   "devDependencies": {
     "@types/node": "^18.15.11",
     "@types/pako": "^2.0.0",
-    "csv-parse": "^5.3.6",
+    "csv-parse": "^7.0.2",
     "terser": "^5.16.9",
     "typescript": "^5.0.4"
   },
